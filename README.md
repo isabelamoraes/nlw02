@@ -3,7 +3,7 @@
     <img src="https://github.com/isabelamoraes/nlw02/blob/master/demo/logo.jpg?raw=true" alt="Proffy">
   <br>
   <br>
-  BE THE HERO
+  PROFFY
 </h1>
 
 <h4 align="center">
